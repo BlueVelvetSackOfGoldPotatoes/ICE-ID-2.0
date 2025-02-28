@@ -7,3 +7,5 @@ rule_based_approach/cleaned_einstaklingar.csv filter=lfs diff=lfs merge=lfs -tex
 ml_approach/models/RandomForest.pkl filter=lfs diff=lfs merge=lfs -text
 ml_approach/temp_data/preprocessed_full_data_without_pairs.pkl filter=lfs diff=lfs merge=lfs -text
 rule_based_approach/manntol_einstaklingar_new.csv filter=lfs diff=lfs merge=lfs -text
+rule_based_approach/clean_dataset_new.pkl filter=lfs diff=lfs merge=lfs -text
+ml_approach/sander_final/rule_based_predictions.csv filter=lfs diff=lfs merge=lfs -text
