@@ -1,0 +1,7 @@
+Model: LightGBM
+Accuracy: 0.8132
+ARI: 0.3924
+Confusion Matrix:
+[[12924  3263]
+ [ 2784 13403]]
+

@@ -1,0 +1,7 @@
+Model: HistGradientBoosting
+Accuracy: 0.8128
+ARI: 0.3915
+Confusion Matrix:
+[[12843  3344]
+ [ 2715 13472]]
+

@@ -1,0 +1,7 @@
+Model: PassiveAggressiveClassifier
+Accuracy: 0.5169
+ARI: 0.0011
+Confusion Matrix:
+[[7619 8568]
+ [7071 9116]]
+

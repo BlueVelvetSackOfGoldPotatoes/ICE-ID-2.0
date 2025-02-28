@@ -1,0 +1,7 @@
+Model: GaussianNB
+Accuracy: 0.5353
+ARI: 0.0050
+Confusion Matrix:
+[[ 5641 10546]
+ [ 4498 11689]]
+

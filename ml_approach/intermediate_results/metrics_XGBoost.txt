@@ -1,0 +1,7 @@
+Model: XGBoost
+Accuracy: 0.8350
+ARI: 0.4489
+Confusion Matrix:
+[[13352  2835]
+ [ 2506 13681]]
+

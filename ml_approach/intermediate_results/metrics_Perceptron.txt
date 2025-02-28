@@ -1,0 +1,7 @@
+Model: Perceptron
+Accuracy: 0.4862
+ARI: 0.0007
+Confusion Matrix:
+[[10095  6092]
+ [10542  5645]]
+

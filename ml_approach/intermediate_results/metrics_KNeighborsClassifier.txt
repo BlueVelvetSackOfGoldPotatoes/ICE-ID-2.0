@@ -1,0 +1,7 @@
+Model: KNeighborsClassifier
+Accuracy: 0.8351
+ARI: 0.4492
+Confusion Matrix:
+[[13267  2920]
+ [ 2418 13769]]
+

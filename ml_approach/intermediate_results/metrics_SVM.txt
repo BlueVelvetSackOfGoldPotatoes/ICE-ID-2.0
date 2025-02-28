@@ -1,0 +1,7 @@
+Model: SVM
+Accuracy: 0.7052
+ARI: 0.1684
+Confusion Matrix:
+[[ 9396  6791]
+ [ 2752 13435]]
+

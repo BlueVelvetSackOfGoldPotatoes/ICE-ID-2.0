@@ -1,0 +1,7 @@
+Model: SGDClassifier
+Accuracy: 0.5236
+ARI: 0.0022
+Confusion Matrix:
+[[7006 9181]
+ [6241 9946]]
+

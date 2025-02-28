@@ -1,0 +1,7 @@
+Model: BernoulliNB
+Accuracy: 0.4968
+ARI: 0.0000
+Confusion Matrix:
+[[8935 7252]
+ [9038 7149]]
+

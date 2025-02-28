@@ -1,0 +1,7 @@
+Model: CatBoost
+Accuracy: 0.8216
+ARI: 0.4137
+Confusion Matrix:
+[[13138  3049]
+ [ 2726 13461]]
+

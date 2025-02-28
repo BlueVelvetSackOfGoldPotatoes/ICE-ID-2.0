@@ -1,0 +1,7 @@
+Model: LogisticRegression
+Accuracy: 0.5289
+ARI: 0.0033
+Confusion Matrix:
+[[7488 8699]
+ [6553 9634]]
+

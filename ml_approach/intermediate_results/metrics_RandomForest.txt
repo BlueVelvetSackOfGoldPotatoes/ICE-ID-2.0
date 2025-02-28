@@ -1,0 +1,7 @@
+Model: RandomForest
+Accuracy: 0.8555
+ARI: 0.5055
+Confusion Matrix:
+[[13990  2197]
+ [ 2481 13706]]
+

@@ -1,0 +1,7 @@
+Model: GradientBoosting
+Accuracy: 0.7434
+ARI: 0.2369
+Confusion Matrix:
+[[11217  4970]
+ [ 3338 12849]]
+

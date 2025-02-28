@@ -1,0 +1,40 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+url = "https://pypi.ngc.nvidia.com"
+verify_ssl = true
+name = "pypingcnvidia"
+
+[[source]]
+url = "https://pypi.ngc.nvidia.com"
+verify_ssl = true
+name = "pypingcnvidia"
+
+[packages]
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+scikit-learn = "*"
+jupyterlab = "*"
+ipykernel = "*"
+pyarrow = "*"
+jupyter = "*"
+networkx = "*"
+fuzzywuzzy = "*"
+python-levenshtein = "*"
+phonetics = "*"
+torch = "*"
+gensim = "*"
+torchvision = "*"
+torchaudio = "*"
+tqdm = "*"
+netwrokx = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
