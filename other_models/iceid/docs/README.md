@@ -1,10 +1,10 @@
-# GitHub Pages Setup for ICE-ID 2.0
+# GitHub Pages Setup for ICE-ID
 
 ## Quick Setup (5 minutes)
 
 ### Enable GitHub Pages
 
-1. Go to your repository: https://github.com/BlueVelvetSackOfGoldPotatoes/ICE-ID-2.0
+1. Go to your repository: https://github.com/BlueVelvetSackOfGoldPotatoes/iceid
 2. Click **Settings** → **Pages** (in sidebar)
 3. Under "Build and deployment":
    - Source: **"Deploy from a branch"**
@@ -16,7 +16,7 @@
 
 After 1-2 minutes, your site will be live at:
 ```
-https://bluevelvetsackofgoldpotatoes.github.io/ICE-ID-2.0/
+https://bluevelvetsackofgoldpotatoes.github.io/iceid/
 ```
 
 ---
