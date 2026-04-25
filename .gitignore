@@ -1,3 +1,18 @@
+# Project-specific: large data, models, envs, third-party repos
+ICEID-2-Jupyter/iceid-env/
+ICEID-2-Jupyter/data/
+ICEID-2-Jupyter/raw_data/
+ICEID-2-Jupyter/artifacts/
+ICEID-2-Jupyter/artifacts_deprecated/
+ICEID-2-Jupyter/models_ensemble_siamese/
+ICEID-2-Jupyter/deploy_out/
+ICEID-2-Jupyter/catboost_info/
+ICEID-2-Jupyter/reports_gpu/
+ICEID-2-Jupyter/logs_grabage.txt
+ditto/
+saint/
+pip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
